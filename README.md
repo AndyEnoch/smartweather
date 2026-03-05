@@ -4,6 +4,11 @@ A React Native weather application built with Expo that displays current conditi
 
 ---
 
+<img width="367" height="790" alt="Screenshot 2026-03-05 at 10 35 22 AM" src="https://github.com/user-attachments/assets/3a88395a-5703-494b-be9f-021aef0baa99" />
+<img width="376" height="787" alt="Screenshot 2026-03-05 at 10 34 44 AM" src="https://github.com/user-attachments/assets/39567cec-ffe9-4c5e-bc24-4b88ebbeb264" />
+<img width="380" height="790" alt="Screenshot 2026-03-05 at 10 34 27 AM" src="https://github.com/user-attachments/assets/16763d3a-4565-4631-8faf-a1a9da8a5bc4" />
+
+
 ## Table of Contents
 
 1. [Prerequisites](#prerequisites)
